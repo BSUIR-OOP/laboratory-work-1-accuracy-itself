@@ -1,0 +1,16 @@
+D:\C#\Figures\Figures\bin\x64\Release\Figures.exe.config
+D:\C#\Figures\Figures\bin\x64\Release\Figures.exe
+D:\C#\Figures\Figures\bin\x64\Release\Figures.pdb
+D:\C#\Figures\Figures\obj\x64\Release\Figures.csproj.AssemblyReference.cache
+D:\C#\Figures\Figures\obj\x64\Release\Figures.csproj.SuggestedBindingRedirects.cache
+D:\C#\Figures\Figures\obj\x64\Release\MainWindow.g.cs
+D:\C#\Figures\Figures\obj\x64\Release\App.g.cs
+D:\C#\Figures\Figures\obj\x64\Release\Figures_MarkupCompile.cache
+D:\C#\Figures\Figures\obj\x64\Release\Figures_MarkupCompile.lref
+D:\C#\Figures\Figures\obj\x64\Release\MainWindow.baml
+D:\C#\Figures\Figures\obj\x64\Release\Figures.g.resources
+D:\C#\Figures\Figures\obj\x64\Release\Figures.Properties.Resources.resources
+D:\C#\Figures\Figures\obj\x64\Release\Figures.csproj.GenerateResource.cache
+D:\C#\Figures\Figures\obj\x64\Release\Figures.csproj.CoreCompileInputs.cache
+D:\C#\Figures\Figures\obj\x64\Release\Figures.exe
+D:\C#\Figures\Figures\obj\x64\Release\Figures.pdb

@@ -9,7 +9,7 @@ using System.Windows.Shapes;
 
 namespace Figures
 {
-    internal class MySegment : MyShapes
+    internal class MySegment : MyShape
     {
         MyPoint v1, v2;
         public override void Draw(Canvas g)

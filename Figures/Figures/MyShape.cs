@@ -8,7 +8,7 @@ using System.Windows.Media;
 
 namespace Figures
 {
-    public abstract class MyShapes
+    public abstract class MyShape
     {
         public Brush Color;
         public abstract void Draw(Canvas g);

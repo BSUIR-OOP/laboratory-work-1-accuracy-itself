@@ -9,11 +9,11 @@ using System.Windows.Shapes;
 
 namespace Figures
 {
-    internal class MyEllipse : MyShapes
+    internal class MyEllipse : MyShape
     {
         protected MyPoint a;
-        int width;
-        int height;
+        public int width;
+        public int height;
 
         public override void Draw(Canvas g)
         {

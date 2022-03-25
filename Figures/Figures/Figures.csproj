@@ -80,7 +80,7 @@
     <Compile Include="MyPoint.cs" />
     <Compile Include="MyRectangle.cs" />
     <Compile Include="MySegment.cs" />
-    <Compile Include="MyShapes.cs" />
+    <Compile Include="MyShape.cs" />
     <Compile Include="MyTriangle.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

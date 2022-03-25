@@ -10,7 +10,7 @@ using System.Windows.Shapes;
 
 namespace Figures
 {
-    internal class MyRectangle : MyShapes
+    internal class MyRectangle : MyShape
     {
         MyPoint center;
         public int width, height;

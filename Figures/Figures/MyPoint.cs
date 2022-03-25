@@ -9,7 +9,7 @@ using System.Windows.Shapes;
 
 namespace Figures
 {
-    internal class MyPoint : MyShapes
+    internal class MyPoint : MyShape
     {
         public int x, y;
         public MyPoint(MyPoint point)
